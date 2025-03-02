@@ -114,7 +114,7 @@ function App() {
 
     return (
         <div className="container mt-4">
-            <h1>Product Management</h1>
+            // <h1>Product Management</h1>
 
             {/* Add Product Section */}
             <h2>Add Product</h2>
